@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=mun168&color=1A4A7A&style=flat-square)
+![](https://komarev.com/ghpvc/?username=munashechibaya22&color=1A4A7A&style=flat-square)
 
 <h1 align="left">Hi 👋, I'm Munashe Chibaya</h1>
 <h3 align="left">Cloud & DevOps Engineer · AWS Certified Solutions Architect · OCI DevOps Professional</h3>
@@ -110,9 +110,15 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mun168&layout=compact&hide=html&theme=default" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munashechibaya22&layout=compact&hide=html&langs_count=8" alt="Top Languages" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munashechibaya22&show_icons=true&theme=default" alt="GitHub Stats" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munashechibaya22&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<br clear="left"/>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munashechibaya22" alt="GitHub Streak" />
 </p>
