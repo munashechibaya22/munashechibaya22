@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 Currently working as **Cloud & DevOps Engineer at Claxon Actuaries**
-- 🌱 Deepening expertise in **Kubernetes, Prometheus/Grafana observability, and AWS DOP-C02**
+- 🌱 Deepening expertise in **Kubernetes, Ansible, Prometheus/Grafana observability, and AWS DOP-C02**
 - 🚀 Passionate about **Infrastructure as Code, CI/CD automation, and production reliability**
 - 🌍 Based in **Harare, Zimbabwe** — open to remote opportunities
 - ⚡ Fun fact: **Jazz is a must when coding**
@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=323330" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
 
 ### 📊 Monitoring & Observability
@@ -113,5 +114,5 @@
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mun168&show_icons=true&theme=default" alt="GitHub Stats" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munashechibaya22&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
