@@ -110,15 +110,11 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munashechibaya22&layout=compact&hide=html&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=munashechibaya22&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
 </p>
-
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munashechibaya22&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munashechibaya22&layout=compact&hide=html&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
-
-<br clear="left"/>
-
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munashechibaya22" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=munashechibaya22&hide_border=true" alt="GitHub Streak" />
 </p>
